@@ -1,0 +1,2 @@
+Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question for knowledge base.
+Keep original language of the user
